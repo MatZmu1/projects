@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome on the site with projects
+
+Check my projects:
+[I'm an inline-style link](https://www.google.com)
+
 
 You can use the [editor on GitHub](https://github.com/MatZmu1/projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
